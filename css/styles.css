@@ -52,6 +52,14 @@ body{
     display: none;
 }
 
+#portfolio{
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+
+}
+
 .text-block1{
     position: absolute;
     background-color: white;
