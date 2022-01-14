@@ -10,6 +10,7 @@ By Jimmy Njuguna kiarie
 Description  
 This is my IP for week three at Moringa school  
 Below is the link to the website  
+https://github.com/jnkiarie/moringa-ip-week-3  
 
 
 Technologies Used  
