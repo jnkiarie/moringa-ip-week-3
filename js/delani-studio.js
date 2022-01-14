@@ -78,7 +78,7 @@ $(document).ready(function () {
 
 
     $('img#design').click(function () {
-        $('h4#design').css("font-weigh", "bold");
+        $('h4').css("font-weigh", "bold");
         $('.clickable-a').toggle();
         $('.design').toggle();
     });
