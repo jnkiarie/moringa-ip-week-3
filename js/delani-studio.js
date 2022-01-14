@@ -88,7 +88,7 @@ $(document).ready(function () {
     });
 
     $('img#development').click(function () {
-        $('h4').css('font-weight', 'bold');
+        $('h4#development').css('font-weight', 'bold');
         $('.clickable-b').toggle();
         $('.development').toggle();
     });
@@ -98,7 +98,7 @@ $(document).ready(function () {
     });
 
     $('img#product').click(function () {
-        $('h4').css('font-weight', 'bold');
+        $('h4#product').css('font-weight', 'bold');
         $('.clickable-c').toggle();
         $('.product').toggle();
     });
